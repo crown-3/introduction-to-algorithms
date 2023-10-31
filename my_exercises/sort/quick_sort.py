@@ -33,5 +33,6 @@ def partition(array, l, h):
 
 
 array1 = [6, 8, 2, 7, 7, 1]
-quick_sort(array1, 0, len(array1) - 1)
-print(array1)
+array2 = [5, 2, 4, 7, 1, 3, 2, 6]
+quick_sort(array2, 0, len(array2) - 1)
+print(array2)
